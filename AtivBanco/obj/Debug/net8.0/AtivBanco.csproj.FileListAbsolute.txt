@@ -1,0 +1,14 @@
+C:\Users\lucas\source\repos\AtivBanco\AtivBanco\bin\Debug\net8.0\AtivBanco.exe
+C:\Users\lucas\source\repos\AtivBanco\AtivBanco\bin\Debug\net8.0\AtivBanco.deps.json
+C:\Users\lucas\source\repos\AtivBanco\AtivBanco\bin\Debug\net8.0\AtivBanco.runtimeconfig.json
+C:\Users\lucas\source\repos\AtivBanco\AtivBanco\bin\Debug\net8.0\AtivBanco.dll
+C:\Users\lucas\source\repos\AtivBanco\AtivBanco\bin\Debug\net8.0\AtivBanco.pdb
+C:\Users\lucas\source\repos\AtivBanco\AtivBanco\obj\Debug\net8.0\AtivBanco.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lucas\source\repos\AtivBanco\AtivBanco\obj\Debug\net8.0\AtivBanco.AssemblyInfoInputs.cache
+C:\Users\lucas\source\repos\AtivBanco\AtivBanco\obj\Debug\net8.0\AtivBanco.AssemblyInfo.cs
+C:\Users\lucas\source\repos\AtivBanco\AtivBanco\obj\Debug\net8.0\AtivBanco.csproj.CoreCompileInputs.cache
+C:\Users\lucas\source\repos\AtivBanco\AtivBanco\obj\Debug\net8.0\AtivBanco.dll
+C:\Users\lucas\source\repos\AtivBanco\AtivBanco\obj\Debug\net8.0\refint\AtivBanco.dll
+C:\Users\lucas\source\repos\AtivBanco\AtivBanco\obj\Debug\net8.0\AtivBanco.pdb
+C:\Users\lucas\source\repos\AtivBanco\AtivBanco\obj\Debug\net8.0\AtivBanco.genruntimeconfig.cache
+C:\Users\lucas\source\repos\AtivBanco\AtivBanco\obj\Debug\net8.0\ref\AtivBanco.dll
