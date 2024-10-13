@@ -27,7 +27,6 @@
         {
             Console.WriteLine("Saldo suficiente");
             saldo = saldo - valorSacar;
-            //Console.WriteLine($"Saldo da Conta {valorSacar}");
         }
     }
 }

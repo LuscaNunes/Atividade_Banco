@@ -12,3 +12,4 @@ C:\Users\lucas\source\repos\AtivBanco\AtivBanco\obj\Debug\net8.0\refint\AtivBanc
 C:\Users\lucas\source\repos\AtivBanco\AtivBanco\obj\Debug\net8.0\AtivBanco.pdb
 C:\Users\lucas\source\repos\AtivBanco\AtivBanco\obj\Debug\net8.0\AtivBanco.genruntimeconfig.cache
 C:\Users\lucas\source\repos\AtivBanco\AtivBanco\obj\Debug\net8.0\ref\AtivBanco.dll
+C:\Users\lucas\source\repos\AtivBanco\AtivBanco\obj\Debug\net8.0\AtivBanco.sourcelink.json

@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("AtivBanco")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e45da899325378aa95682388723943534471c4ac")]
 [assembly: System.Reflection.AssemblyProductAttribute("AtivBanco")]
 [assembly: System.Reflection.AssemblyTitleAttribute("AtivBanco")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
